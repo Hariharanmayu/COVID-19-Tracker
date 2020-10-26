@@ -1,2 +1,2 @@
 # COVID-19-Tracker
-Small project during Covid quaratine
+Small project during Covid-19
